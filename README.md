@@ -1,50 +1,115 @@
-<br clear="both">
-<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Flucassmagro&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="lucassmagro-profile-views">
+<div align="center">
 
-<h1 align="left">Hi! I'm Lucas!</h1>
-<img align="right" height="180" src="./matrix.gif" />
-
-<p align="left">
-  Software Developer | Former Architect | Tech, Design & Innovation<br>
-  <a href="https://www.linkedin.com/in/lucasmagro/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin badge" />
-  </a>
-  <a href="mailto:lucassmagro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail badge" />
-  </a>
-  <a href="https://instagram.com/lucassmagro" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram badge" />
-  </a>
-</p>
-
-<p align="left">
-  Architect turned developer. I'm in my third semester of Information Systems and working as a Junior Support Analyst while I build toward full-stack development. My architecture background shapes how I approach design and structured problem-solving in code.
-</p>
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · lucassmagro</sub></p>
+<h1>Lucas Santos Magro</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Software Developer | Former Architect | Passionate about Technology, Design &amp; Innovation</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Chapecó-SC, Brazil</sub></p>
+<p><a href="https://github.com/lucassmagro">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/112679737?u=7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b&amp;v=4" width="180" alt="Lucas Santos Magro GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassmagro&theme=github_dark" />
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>40 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>476 contributions · 78 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Software Developer | Former Architect | Passionate about Technology, Design &amp; Innovation</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>40</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>476</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>19</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Lucas Santos Magro GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&repos=lucassmagro%2Fprova-1-programacao-II%2Clucassmagro%2Fexercicios-banco-de-dados-II%2Clucassmagro%2Fexercicios-programacao-II%2Clucassmagro%2Fsistemas-operacionais-a1&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&repos=lucassmagro%2Fprova-1-programacao-II%2Clucassmagro%2Fexercicios-banco-de-dados-II%2Clucassmagro%2Fexercicios-programacao-II%2Clucassmagro%2Fsistemas-operacionais-a1&v=recruiter-projects-1&mode=dark" width="100%" alt="Lucas Santos Magro selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/lucassmagro/prova-1-programacao-II">prova-1-programacao-II</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/lucassmagro/prova-1-programacao-II">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/lucassmagro/exercicios-banco-de-dados-II">exercicios-banco-de-dados-II</a></h3><p>A selected public project.</p><p><sub>PLpgSQL · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/lucassmagro/exercicios-programacao-II">exercicios-programacao-II</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/lucassmagro/sistemas-operacionais-a1">sistemas-operacionais-a1</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Lucas Santos Magro technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>69% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>PLpgSQL</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=lucassmagro&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112679737%3Fu%3D7ef24bf1fa8fb1beae8f1d41b140dec47aacc77b%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Lucas Santos Magro contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/lucassmagro">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Lucas Santos Magro · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
