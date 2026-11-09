@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas 👋
+# Olá, eu sou o Lucas
 
 Sou desenvolvedor de software em Chapecó-SC. Antes disso, trabalhei como arquiteto, e foi daí que veio o gosto por unir **tecnologia, design e inovação**.
 
@@ -6,10 +6,10 @@ Hoje uso a programação para tirar ideias do papel e estudo todo dia para ficar
 
 ## No que estou focado
 
-- 🎨 Interfaces e front-end
-- ⚙️ Lógica de back-end e APIs
-- 🗄️ Bancos de dados e SQL
-- 🖥️ Fundamentos de sistemas operacionais
+- Interfaces e front-end
+- Lógica de back-end e APIs
+- Bancos de dados e SQL
+- Fundamentos de sistemas operacionais
 
 ## Stack
 
