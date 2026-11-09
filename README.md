@@ -1,45 +1,38 @@
-# Lucas Santos Magro
+# Olá, eu sou o Lucas 👋
 
-**desenvolvedor de software em construção.**
+Sou desenvolvedor de software em Chapecó-SC. Antes disso, trabalhei como arquiteto, e foi daí que veio o gosto por unir **tecnologia, design e inovação**.
 
-Desenvolvedor de software, ex-arquiteto e entusiasta de tecnologia, design e inovação.
+Hoje uso a programação para tirar ideias do papel e estudo todo dia para ficar melhor nisso.
 
-Interessado em transformar problemas reais em soluções simples, funcionais e escaláveis.
+## No que estou focado
 
-```text
-explorando atualmente:
-```
+- 🎨 Interfaces e front-end
+- ⚙️ Lógica de back-end e APIs
+- 🗄️ Bancos de dados e SQL
+- 🖥️ Fundamentos de sistemas operacionais
 
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Programação e sistemas operacionais
-- Bancos de dados e APIs
-- Design e inovação
+## Stack
 
-## tecnologias e ferramentas
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-`html` · `css` · `javascript` · `typescript` · `plpgsql` · `git`
+## Alguns repositórios
 
-## projetos e experiências
+| Projeto | Tecnologia | Sobre |
+| --- | --- | --- |
+| [prova-1-programacao-II](https://github.com/lucassmagro/prova-1-programacao-II) | JavaScript | Prática de Programação II |
+| [exercicios-programacao-II](https://github.com/lucassmagro/exercicios-programacao-II) | TypeScript | Exercícios da disciplina |
+| [exercicios-banco-de-dados-II](https://github.com/lucassmagro/exercicios-banco-de-dados-II) | PL/pgSQL | Consultas e rotinas em banco de dados |
+| [sistemas-operacionais-a1](https://github.com/lucassmagro/sistemas-operacionais-a1) | HTML | Estudos de sistemas operacionais |
 
-```text
-00. projetos       ···················· projetos pessoais
-01. experimentos   ···················· novos aprendizados
-02. ideias         ···················· coisas que pretendo construir
-03. anotações      ···················· documentação e estudos
-```
+## Como eu penso
 
-- [prova-1-programacao-II](https://github.com/lucassmagro/prova-1-programacao-II) · JavaScript
-- [exercicios-programacao-II](https://github.com/lucassmagro/exercicios-programacao-II) · TypeScript
-- [exercicios-banco-de-dados-II](https://github.com/lucassmagro/exercicios-banco-de-dados-II) · PLpgSQL
-- [sistemas-operacionais-a1](https://github.com/lucassmagro/sistemas-operacionais-a1) · HTML
+Prefiro entender o problema por completo antes de escrever a primeira linha, e aprendo mais quando coloco a mão na massa.
 
-## filosofia
+## Contato
 
-Acredito em aprender construindo, compreender antes de automatizar e desenvolver soluções que resolvam problemas reais.
-
-**Curioso o suficiente para construir por conta própria.**
-
----
-
-<sub>Chapecó-SC, Brasil · Sempre aprendendo, sempre construindo.</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-lucassmagro-181717?style=flat-square&logo=github)](https://github.com/lucassmagro)
